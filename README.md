@@ -1,6 +1,6 @@
 # 60_wrapBinarySearch
 
-2. log_2(n) = count means that 2 to the *count* power is equal to *n*. Its graph is increasing and concave. Moreover, there is a vertical asymptote at y = 0, and the domain of the function is (0, infinity).
+2. log_2(n) = count means that 2 to the *count* power is equal to *n*. Its graph is increasing and concave. Moreover, there is a vertical asymptote at x = 0, and the domain of the function is (0, infinity).
 
 3. **Problem**
    Find the index of the element with the specified value in a list.
